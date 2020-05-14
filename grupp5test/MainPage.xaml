@@ -10,7 +10,7 @@
 
     <Grid>
         <Button Content="Button" Height="227" Margin="197,577,0,0" VerticalAlignment="Top" Width="553"/>
-        <TextBlock HorizontalAlignment="Left" Margin="411,202,0,0" Text="WAZI" TextWrapping="Wrap" VerticalAlignment="Top" Height="191" Width="339"/>
+        <TextBlock HorizontalAlignment="Left" Margin="921,360,0,0" Text="WAZI" TextWrapping="Wrap" VerticalAlignment="Top" Height="191" Width="339"/>
 
     </Grid>
 </Page>
