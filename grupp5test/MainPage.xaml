@@ -20,6 +20,11 @@
 
         <TextBlock HorizontalAlignment="Left" Margin="534,120,0,0" Text="WAZI" TextWrapping="Wrap" VerticalAlignment="Top" Height="191" Width="339"/>
 
+        <TextBlock HorizontalAlignment="Left" Margin="1146,192,0,0" Text="TextBlock" TextWrapping="Wrap" VerticalAlignment="Top" Height="151" Width="267"/>
+
+        <Button Content="Button" Height="273" Margin="888,531,0,0" VerticalAlignment="Top" Width="365"/>
+
+
 
     </Grid>
 </Page>
